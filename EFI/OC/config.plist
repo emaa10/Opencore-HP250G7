@@ -650,13 +650,13 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
-				<string>SATA-unsupported.kext</string>
+				<string>CtlnaAHCIPort.kext</string>
 				<key>Comment</key>
-				<string>SATA-unsupported.kext</string>
+				<string>CtlnaAHCIPort.kext</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string></string>
+				<string>Contents/MacOS/CtlnaAHCIPort</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
