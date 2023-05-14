@@ -14,7 +14,9 @@ Current OC version: 0.9.2
 - Synaptics Trackpad (SMBus)
 
 ### Benchmarks
-- [Geekbench 5]
+- [Geekbench 5 CPU](https://browser.geekbench.com/v5/cpu/21198717)
+- [Geekbench 5 GPU Metal](https://browser.geekbench.com/v5/compute/6536180)
+- [Geekbench 5 GPU OpenCL](https://browser.geekbench.com/v5/compute/6536178)
 
 ### Working
 - iServices
@@ -27,8 +29,7 @@ Current OC version: 0.9.2
 - HDMI
 - Webcam
 - Shutdown and Restart
-- Sleep
-run following commands after installation:
+- Sleep, run following commands after installation:
 ```
     sudo pmset autopoweroff 0
     sudo pmset powernap 0
@@ -42,7 +43,8 @@ run following commands after installation:
 
 
 ### Not working
-WiFi and Bluetooth natively, you have to buy a BCM94360NG replacement
+- WiFi and Bluetooth natively, you have to buy a BCM94360NG replacement
+- Fan control
 
-### Fixed bugs
+### Bugs
 - <strike>No SATA controller</strike>
