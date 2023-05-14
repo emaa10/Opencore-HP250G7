@@ -14,9 +14,9 @@ Current OC version: 0.9.2
 - Synaptics Trackpad (SMBus)
 
 ### Benchmarks
-- [Geekbench 5 CPU]()
-- [Geekbench 5 GPU Metal]()
-- [Geekbench 5 GPU OpenCL]()
+- [Geekbench 5 CPU](https://browser.geekbench.com/v5/cpu/21198717)
+- [Geekbench 5 GPU Metal](https://browser.geekbench.com/v5/compute/6536180)
+- [Geekbench 5 GPU OpenCL](https://browser.geekbench.com/v5/compute/6536178)
 
 ### Working
 - iServices
