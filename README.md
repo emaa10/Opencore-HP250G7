@@ -26,6 +26,7 @@ Current OC version: 0.9.2
 - USB Ports
 - SD Reader
 - DVD Drive
+- SSD Drive, run `sudo trimforce enable` after installation to ensure no problems appear
 - HDMI
 - Webcam
 - Shutdown and Restart
