@@ -27,6 +27,15 @@ Current OC version: 0.9.2
 - HDMI
 - Webcam
 - Shutdown and Restart
+- Sleep
+run following commands after installation:
+```
+    sudo pmset autopoweroff 0
+    sudo pmset powernap 0
+    sudo pmset standby 0
+    sudo pmset proximitywake 0
+    sudo pmset tcpkeepalive 0
+```
 - CPU temp
 - Xcode
 - Trackpad gestures
