@@ -1,7 +1,7 @@
 # Opencore HP 250 G7 - macOS Monterey
 
 Opencore config for my laptop.
-Current OC version: 0.9.4
+Current OC version: 0.9.5
 Current tested macOS version: 12.6.7
 
 ### Hardware
